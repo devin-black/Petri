@@ -1,0 +1,14 @@
+canvas {
+    border: 0px solid #000;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    /* Optional: only if you want to remove the scrollbar */
+    background-color: black;
+}
